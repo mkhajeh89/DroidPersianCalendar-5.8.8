@@ -1,7 +1,7 @@
 
 نسخه اصلی سورس برنامه https://github.com/persian-calendar/DroidPersianCalendar
 
-سورس نسخه ویرایش شده (تقویم هوشمند ۹۹ ) https://github.com/mkhajeh89/DroidPersianCalendar-5.8.8
+سورس نسخه ویرایش شده (تقویم  ۹۹ ) https://github.com/mkhajeh89/DroidPersianCalendar-5.8.8
 
 نسخه ویرایش شده برنامه در بازار https://cafebazaar.ir/app/com.mahzadiran.persiancalendar
 
